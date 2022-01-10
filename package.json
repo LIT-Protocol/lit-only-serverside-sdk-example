@@ -1,0 +1,14 @@
+{
+  "name": "lit-only-serverside-sdk-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "startDev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "lit-js-sdk": "^1.1.102"
+  }
+}
