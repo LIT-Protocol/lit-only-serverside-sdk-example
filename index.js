@@ -1,5 +1,5 @@
 var express = require("express");
-var LitJsSdk = require("lit-js-sdk");
+var LitJsSdk = require("lit-js-sdk/build/index.node.js");
 var app = express();
 
 // BEGIN by setting some application wide globals for this demo.
